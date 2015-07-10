@@ -1,0 +1,21 @@
+{
+    "name": "stories",
+    "description": "",
+    "version": "0.0.0",
+    "author": "Anders Thøgersen <anders@bladre.dk>",
+    "licenses": [ "MIT" ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/aklt/"
+    },
+    "main": "gather",
+    "engines": {
+        "node": ">= 0.6.0"
+    },
+    "homepage": "http://bladre.dk/scripts",
+    "dependencies": {
+        "coffee-script": "~1.1.3",
+        "vows": "~0.5.13"
+    }
+}
+
